@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "Referências"
+  author: "Darlon Vasata"
+  date: "11/03/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - content.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: abnt.csl
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

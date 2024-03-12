@@ -1,0 +1,10 @@
+# Citações
+
+Citações a serem renderizadas:
+
+- [@carvalho2007] 
+- [@forbellone2022]
+- [@menezes2010] 
+- [@menezes2019] 
+- [@lopes2011]
+

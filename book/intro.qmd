@@ -1,0 +1,7 @@
+# Introdução
+
+Material para armazenamento e renderização de citações BibTex.
+
+## Licencing
+
+- Formato ABNT por [CSL Project](https://github.com/citation-style-language/styles/tree/master).

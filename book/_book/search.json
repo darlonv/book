@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Referências",
+    "section": "",
+    "text": "Prefácio\nRepositório para armazenamento de referências abnt utilizando BibTex.",
+    "crumbs": [
+      "Prefácio"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introdução",
+    "section": "",
+    "text": "1.1 Licencing",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#licencing",
+    "href": "intro.html#licencing",
+    "title": "1  Introdução",
+    "section": "",
+    "text": "Formato ABNT por CSL Project.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "content.html",
+    "href": "content.html",
+    "title": "2  Citações",
+    "section": "",
+    "text": "Citações a serem renderizadas:\n\n(CARVALHO, 2007)\n(FORBELLONE; EBERSPÄTCHER, 2022)\n(MENEZES, 2010)\n(MENEZES, 2019)\n(LOPES, 2007)\n\n\n\n\n\nCARVALHO, F. P. Algoritmos: Notas de aula., 2007. Disponível em: &lt;https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf&gt;\n\n\nFORBELLONE, A. L. V.; EBERSPÄTCHER, H. F. Lógica de programação: A construção de algoritmos e estruturas de dados. 3. ed. Porto Alegre: Bookman, 2022.\n\n\nLOPES, A. Algoritmos: Notas de aula. Mossoró: IFRNNotas de aula, 2007. Disponível em: &lt;http://docente.ifrn.edu.br/abrahaolopes/semestre-2012.1/1.2411.1v-fundamentos-de-logica-e-algoritmos/lista-de-exercicios-2-operadores-matematicos/at_download/file&gt;\n\n\nMENEZES, N. N. C. Introdução a programação com python. 1. ed. São Paulo: Novatec, 2010.\n\n\nMENEZES, N. N. C. Introdução a programação com python. 3. ed. São Paulo: Novatec, 2019.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Citações</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Referências",
+    "section": "",
+    "text": "CARVALHO, F. P. Algoritmos: Notas de aula., 2007.\nDisponível em: &lt;https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf&gt;\n\n\nFORBELLONE, A. L. V.; EBERSPÄTCHER, H. F. Lógica de Programação:\nA Construção de Algoritmos e Estruturas de Dados. 3. ed. Porto\nAlegre: Bookman, 2022.\n\n\nLOPES, A. Algoritmos: Notas de aula. Mossoró: IFRNNotas\nde aula, 2007. Disponível em: &lt;http://docente.ifrn.edu.br/abrahaolopes/semestre-2012.1/1.2411.1v-fundamentos-de-logica-e-algoritmos/lista-de-exercicios-2-operadores-matematicos/at_download/file&gt;\n\n\nMENEZES, N. N. C. Introdução a programação com Python.\n1. ed. São Paulo: Novatec, 2010.\n\n\nMENEZES, N. N. C. Introdução a programação com Python.\n3. ed. São Paulo: Novatec, 2019.",
+    "crumbs": [
+      "Referências"
+    ]
+  }
+]
